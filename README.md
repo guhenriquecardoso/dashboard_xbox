@@ -25,7 +25,9 @@ Este projeto foi desenvolvido como parte do curso de Excel da DIO. A proposta é
 
 ## 🖼 Imagem
 
-![Visão Geral](./imagem/visao-geral.png)
+> As imagens estão localizadas na pasta /imagem deste repositório.
+
+![Visão Geral](/imagem/visao-geral.png)
 
 
 ## 🚀 Como Usar
