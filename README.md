@@ -23,12 +23,12 @@ Este projeto foi desenvolvido como parte do curso de Excel da DIO. A proposta é
 - **Dashboard**: Apresenta os gráficos dinâmicos e filtros visuais para análise.  
 - **Relatórios**: Disponibiliza informações complementares sobre o desempenho das vendas.
 
-## 🖼 Imagem
+## 🖼 Captura de tela
 
-> As imagens estão localizadas na pasta /imagem deste repositório.
+> A imagens estão localizadas na pasta /images deste repositório.
 
-![Visão Geral](/imagem/visao-geral.png)
-
+### Visão geral da simulação
+![Visão Geral](images/visao-geral.png)
 
 ## 🚀 Como Usar
 
